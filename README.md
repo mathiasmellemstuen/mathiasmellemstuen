@@ -22,7 +22,7 @@
 
 
 
-<h3 align="left"> More stats!</h3>
+<h3 align="left">Statistics!</h3>
 
 <table style="border:none;">
   <tr>
