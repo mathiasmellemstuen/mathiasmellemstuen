@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Mathias Mellemstuen</h1>
-I'm a passionate developer from Norway. Currently studying computer engineering at Østfold University College.
+<p>I'm a passionate developer from Norway. Currently studying computer engineering at Østfold University College.</p>
 
+
+<h3 align=left">Technologies</h3>
 <table border="0">
  <tr>
     <td><h3 align="left">Programming languages that I'm using</h3></td>
@@ -20,10 +22,8 @@ I'm a passionate developer from Norway. Currently studying computer engineering 
 
 
 
-<h3 align="left"> What I've been doing lately</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiasmellemstuen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mathiasmellemstuen" /></p>
-
 <h3 align="left"> More stats!</h3>
+
 <table style="border:none;">
   <tr>
     <td>
@@ -34,6 +34,9 @@ I'm a passionate developer from Norway. Currently studying computer engineering 
     </td>
   </tr>
 </table>
+
+<h3 align="left"> What I've been doing lately</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiasmellemstuen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mathiasmellemstuen" /></p>
 
 <h3 align="left">In case you decided to support me for my hard work:</h3>
 <p><a href="https://www.buymeacoffee.com/matmel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="matmel" /></a></p><br><br>
