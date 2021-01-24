@@ -30,4 +30,3 @@
 ### Thank you for visiting my profile!
 
 ![number](https://visitor-badge.laobi.icu/badge?page_id=mathiasmellemstuen.mathiasmellemstuen)
-
