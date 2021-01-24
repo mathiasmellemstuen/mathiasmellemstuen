@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Statistics!</h3>
-
+<p align="right" <img src="https://github-readme-stats.vercel.app/api?username=mathiasmellemstuen&show_icons=true&locale=en&theme=tokyonight" alt="mathiasmellemstuen" /></p>
 <h3>In case you decided to support me for my hard work:</h3>
 <p><a href="https://www.buymeacoffee.com/matmel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="matmel" /></a></p><br><br>
 
