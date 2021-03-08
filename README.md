@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Mathias Mellemstuen</h1>
 <p>I'm a passionate software developer living in Norway. Currently studying computer engineering at Østfold University College.</p>
 
-
-<h3 align=left">Technologies</h3>
 <table border="0">
  <tr>
     <td><h3 align="left">Programming languages that I'm using</h3></td>
