@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mathias Mellemstuen</h1>
-<p>I'm a passionate software developer and computer engineer living in Norway.</p>
+<p>I'm a passionate software developer and computer engineer living in Norway. Graduated from Østfold University College in May, 2022.</p>
 <a href="https://mathias.mellemstuen.no" target="_blank"><g-emoji class="g-emoji" alias="arrow_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png">➡️</g-emoji>Check out my website</a>
 
 <h2>These are the languages I'm currently struggling through right now</h2>
