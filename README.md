@@ -3,7 +3,7 @@
 <p>I'm currently workning with graphics programmning and learning network sockets programming.</p>
 <p><a href="https://mathias.mellemstuen.no" target="_blank"><g-emoji class="g-emoji" alias="arrow_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png">➡️</g-emoji>Check out my website</a></p>
 
-<h2>These are the languages I'm currently struggling through right now</h2>
+<h2>These are the languages I'm struggling through right now</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiasmellemstuen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mathiasmellemstuen" />
 
 
